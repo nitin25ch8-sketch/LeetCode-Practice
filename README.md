@@ -5,14 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
