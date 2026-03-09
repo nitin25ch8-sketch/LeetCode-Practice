@@ -12,10 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0075-sort-colors) |
-## Binary Search
-|  |
-| ------- |
-| [0852-peak-index-in-a-mountain-array](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -57,4 +55,9 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0035-search-insert-position) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
