@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/0048-rotate-image) |
+| [3643-flip-square-submatrix-vertically](https://github.com/nitin25ch8-sketch/LeetCode-Practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bit Manipulation
 |  |
 | ------- |
